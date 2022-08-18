@@ -1,0 +1,30 @@
+body {
+  background-color: #106863;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header {
+  text-align: center;
+  color: #ffffff;
+}
+
+section {
+  background-color: #413c3cb7;
+  color: #ffffff;
+  height: auto;
+  width: 500px;
+  margin: auto;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px;
+}
+
+div {
+  padding: 8px;
+}
+
+footer {
+  text-align: center;
+  font-style: italic;
+  color: #ffffff;
+}
