@@ -1,5 +1,5 @@
 body {
-  background-color: #106863;
+  background-color: #0c6b5e;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
@@ -9,8 +9,8 @@ header {
 }
 
 section {
-  background-color: #413c3cb7;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
   height: auto;
   width: 500px;
   margin: auto;
